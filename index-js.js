@@ -104,3 +104,5 @@ async function getbalance() {
 connectButton.onclick = connect;
 fundButton.onclick = fund;
 balanceButton.onclick = getbalance
+
+// Completed without typescript added
